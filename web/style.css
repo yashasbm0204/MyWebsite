@@ -1,0 +1,51 @@
+h2{
+    color: rgb(14, 210, 224); 
+    font-style: italic;
+     font-weight: bold;
+}
+body{
+    background-color: black;
+}
+#line1
+{
+    color: blue;
+    font-size: 2rem;
+    text-align: centre;
+}
+
+#line2
+{
+    color: green;
+    font-size: larger;
+}
+h1{
+    color:aliceblue;
+    font-style:oblique;
+    font-weight: bold;
+    font-size: 6rem;
+    text-align: center;
+}
+
+p:hover
+{
+    color: yellow;
+}
+h2:hover
+{
+    color: gold;
+    font-style: initial;
+    font-size: 1rem;
+    font-weight: bold;
+    
+}
+a
+{
+    color: greenyellow;
+}
+button
+{
+    text-align: center;
+    margin-left: center;
+    margin-right: center;
+    width: 25%;
+}
